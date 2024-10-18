@@ -90,7 +90,7 @@ seamless and responsive interface.
 
 ## 📈 &nbsp; UML Diagram
 
->![Shopfront UML diagram](https://user-images.githubusercontent.com/93027256/225909255-ec6a0284-7efc-41cc-804b-7c9113a4eb5c.png)
+![shopfront  UML diagram](https://github.com/user-attachments/assets/ac22fb80-4f4e-4393-a43a-54d6eb9eebe6)
 
 ## 🌫 &nbsp; Microservices Diagram
 
