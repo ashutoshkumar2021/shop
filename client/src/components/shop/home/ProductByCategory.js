@@ -68,7 +68,7 @@ const AllProduct = ({ products }) => {
                     <div className="text-gray-600 font-light truncate">
                       {item.pName}
                     </div>
-                    <div className="flex items-center space-x-1">
+                   <div className="flex items-center space-x-1">
                       <span>
                         <svg
                           className="w-4 h-4 fill-current text-yellow-700"
