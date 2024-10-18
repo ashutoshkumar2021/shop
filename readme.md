@@ -98,9 +98,8 @@ seamless and responsive interface.
 
 ## &nbsp; ENV
 ```
+- DATABASE=
 - PORT=
-- DB_URI=
-- JWT_SECRET=
-- CLOUDINARY_CLOUD_NAME=
-- CLOUDINARY_API_KEY=
-- CLOUDINARY_API_ESCRET=
+- REACT_APP_API_URL=
+- RAZORPAY_KEY_ID=
+- RAZORPAY_SECRET=
